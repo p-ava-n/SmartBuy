@@ -58,4 +58,6 @@ RUNNING THE PROJECT
 
 DEPLOYMENT LINK
 
+https://p-ava-n.github.io/SmartBuy/
+
 
